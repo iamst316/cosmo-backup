@@ -1,0 +1,6 @@
+html{
+	/*background-image: linear-gradient(to right,#8B008B, #FF1493,#A52A2A)*/
+	/*background-image: radial-gradient(red, yellow,green)*/
+
+	background-image: conic-gradient(red, yellow,green,orange,pink,black)
+}

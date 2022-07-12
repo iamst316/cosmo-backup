@@ -1,0 +1,8 @@
+Bitwise Operator
+
+compliment '-/curly d3a1s2hn
+! or
+& and
+^ xor
+>> left shift 
+<< right shift

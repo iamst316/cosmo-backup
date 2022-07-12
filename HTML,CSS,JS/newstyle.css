@@ -1,0 +1,24 @@
+h1{
+	color: red;
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+}
+
+html{
+	background-color: #FDD9D9;
+}
+
+h3{
+	font-family: 'PT Sans', sans-serif;
+	color: blue;
+	text-align: center;
+
+}
+div {
+	margin-bottom: 10px;
+}
+label {
+	display: inline-block;
+	width: 150px;
+}
+
